@@ -33,12 +33,13 @@
 </p>
 <br>
 <br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tehmistim&show_icons=true&locale=en&layout=compact" alt="tehmistim" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tehmistim&show_icons=true&locale=en" alt="tehmistim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tehmistim&" alt="tehmistim" /></p>
+<h3 align="Center">STATS:</h3>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tehmistim&show_icons=true&locale=en&layout=compact" alt="tehmistim" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tehmistim&show_icons=true&locale=en" alt="tehmistim" /></p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tehmistim&" alt="tehmistim" /></p>
 
 
 Support https://rahuldkjain.github.io/gh-profile-readme-generator/
