@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Tehm, pronounced Tim.  
 
 - 🥰 Things that interest me are:
-      💖 Siberian Huskies
-      💖 Cars
-      💖 Technology
-      💖 Social interactions in restaurants with a small group of friends/associates
+      - 💖 Siberian Huskies
+      - 💖 Cars
+      - 💖 Technology
+      - 💖 Social interactions in restaurants with a small group of friends/associates
    
 - 🌱 I’m currently part of a DevMountain/Hackbright program called BrightPaths, that is sponsored by Perficient.
       In this bootcamp I am learning javaascript, a touch of python and sql, html and css.
