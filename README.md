@@ -12,7 +12,7 @@
       
 - 📓 Portfolio
 
-      *in work
+      https://tehmistim.github.io/
 
 - 🥰 Things that interest me are:
       
