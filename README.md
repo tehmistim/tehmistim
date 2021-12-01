@@ -9,6 +9,10 @@
 - 📔 Comfortable writing:
 
       HTML/CSS
+      
+- 📓 Portfolio
+
+      *in work
 
 - 🥰 Things that interest me are:
       
