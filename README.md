@@ -12,7 +12,9 @@
 
 - 📫 How to reach me **taw@tehmwashington.com**
 
-- ⚡ Fun fact **INTJ - Enneagram Type 4 personality references**
+- ⚡ Fun fact:  I have 5 Siberian Husky furkids
+
+- **INTJ - Enneagram Type 4 personality references**
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
