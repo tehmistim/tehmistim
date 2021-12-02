@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning **Front-end Web Development**
 
 - 🧠 Pluralsight [https://app.pluralsight.com/profile/tim-washington] (Skillset IQs)
+![pluralsight IQs](https://user-images.githubusercontent.com/92332173/144467507-620714ca-2f31-4fb0-bb9d-17f76575dbc9.jpg)
+
 
 - 👨‍💻 [https://tehmistim.github.io/] (My Portfolio)
 
