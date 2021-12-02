@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **Front-end Web Development**
 
-- 👨‍💻 All of my projects are available at [https://tehmistim.github.io/](https://tehmistim.github.io/)
+- 🧠 Pluralsight [https://app.pluralsight.com/profile/tim-washington](Skillset IQs)
+
+- 👨‍💻 [https://tehmistim.github.io/](My Portfolio)
 
 - 📫 How to reach me **taw@tehmwashington.com**
 
@@ -16,6 +18,7 @@
 
 - **INTJ - Enneagram Type 4 personality references**
 <br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/tehmistim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tehmistim" height="30" width="40" /></a>
