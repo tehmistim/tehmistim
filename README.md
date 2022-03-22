@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning **Front-end Web Development**
 
-<!-- - 👨‍💻 [https://tehmistim.github.io/] (My Portfolio)
- -->
+- 👨‍💻 [https://tehmistim.github.io/] (My Portfolio)
+
 - 📫 How to reach me **taw@tehmwashington.com**
 
 - ⚡ Fun fact:  I have 5 Siberian Husky furkids
